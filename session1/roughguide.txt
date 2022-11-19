@@ -1,0 +1,45 @@
+
+1-7
+
+1: trivial - max 10 minutes
+2: Decent problem - max 15 minutes
+3: Decent problem - max 30 minutes
+4: Decent problem - max 1 hour
+5: Prob will have to suffer by thinking - greater than 1 hour
+6: Prob will have to use Google - Variable time, at least spend 20 minutes trying yourself
+7: Prob not going to finish even with Google - Variable time, at least spend 20 minutes trying yourself
+
+ranking:
+
+1.3
+2.3
+3.3
+4.3
+5.4
+6.3
+7.4
+8.3
+9.5
+10.3
+11.6
+12.4
+13.3
+14.3
+
+total: 3*9 + 4*3 + 5*1 + 6*1
+= 27 + 12 + 5 + 6
+= 39 + 11
+= 50
+
+50 total points / 5 
+
+on average 10 points a day
+
+4 points = 1 hour 
+40 points = 10 hours 
+so 13 hours total time
+
+can I just cram it, probably not. Well maybe ...
+maybe two 6 hour sessions better who knows. 
+
+keep steering the ship best you can.
