@@ -1,0 +1,17 @@
+
+1.  Q10. Describe a concrete example where improving the security of a system against 
+one type of attack can increase the likelihood of other attacks.
+
+Lets say you build a large metal fence around your house to stop burglars. 
+
+Well the burglars now instead steal you fence around you house. 
+
+
+lets say you have a password for a certain login. 
+to have more security, you lock it in a box or device with another password attached. 
+
+ie if you lock P1 in a box. You have another password P2 to get into the box. 
+
+now you have to worry about protecting P2. 
+
+idk next question.
