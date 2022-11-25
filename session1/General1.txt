@@ -1,0 +1,51 @@
+
+6.  Suppose you read about RSA encryption and wanted to find 
+it’s standard specification. Where would you look?
+
+https://www.rfc-editor.org/
+
+
+7.  Find two libraries for each of RSA, TLS/SSL, and AEAD. 
+Evaluate the maturity each library, and skim the code. 
+What about the library structure makes sense? 
+How is their documentation? These links may help:
+https://cryptography.rs/
+https://lib.rs/ 
+(librs is equivalent to crates.io, with a different interface)
+
+
+8.  Benchmark the speed of an algorithm in the 
+two different implementations with Criterion.
+
+
+
+9.  You’re implementing a Tweakable Encryption scheme. 
+You need to know what standard API users will expect. 
+Find a reference for the standard API and 
+write the function signatures for encryption and decryption.
+
+depreciated
+
+10. You want to understand a paper on a 
+new polynomial commitment scheme, 
+but you’ve been trying for more than an hour, 
+and the math is over your head. What do you do?
+
+frame the question better
+
+
+11. Implement the Vignère cipher in 100 lines or less.
+
+
+
+12. What is a side channel attack? 
+Is your cipher implementation constant time?
+
+
+any additional info that can gathered from sedign of implemenatation
+cache and timing attacks
+
+13. Extra: Read New Directions in Cryptography.
+
+14. Extra: Consider ways to contribute what you 
+learned this week to the Uncloak knowledge graph.
